@@ -1,0 +1,35 @@
+# ----------------------
+# Backend
+# ----------------------
+backend/node_modules/
+backend/package-lock.json
+backend/dist/
+backend/coverage/
+backend/uploads/
+backend/error-logs/
+backend/.env
+backend/.env.local
+
+# ----------------------
+# Frontend
+# ----------------------
+frontend/node_modules/
+frontend/package-lock.json
+frontend/dist/
+frontend/build/
+frontend/.env
+frontend/.env.local
+
+# ----------------------
+# Logs (both apps)
+# ----------------------
+*.log
+logs/
+
+# ----------------------
+# Editor / OS files
+# ----------------------
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
